@@ -17,7 +17,7 @@ author:
   name:           'Radoslaw Kujawa'
   url:            http://sakura-it.pl
 
-paginate:         5
+paginate:         10 
 
 
 # Custom vars
