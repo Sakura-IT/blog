@@ -7,8 +7,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Uguu 
-tagline:          'Sakura IT blog'
+title:            Sakura blog 
+tagline:       	  Retro hardware and what not
 description:      'News and stories from development of new hardware by Sakura.'
 url: 		  http://blog.sakura-it.pl/
 baseurl: 	  http://blog.sakura-it.pl/
