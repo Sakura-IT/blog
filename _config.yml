@@ -8,14 +8,14 @@ relative_permalinks: true
 
 # Setup
 title:            Uguu 
-tagline:          'The blog'
-description:      'The magnificent stories of kawaii computing by <a href="https://twitter.com/RadoslawKujawa" target="_blank">@RadoslawKujawa</a>.'
-url: 		  http://blog.uguu.waw.pl/
-baseurl: 	  http://blog.uguu.waw.pl/
+tagline:          'Sakura IT blog'
+description:      'News and stories from development of new hardware by Sakura.'
+url: 		  http://blog.sakura-it.pl/
+baseurl: 	  http://blog.sakura-it.pl/
 
 author:
   name:           'Radoslaw Kujawa'
-  url:            https://c0ff33.net
+  url:            http://sakura-it.pl
 
 paginate:         5
 
@@ -23,5 +23,5 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/rkujawa/blog
+  repo:           https://github.com/Sakura-IT/blog
 
